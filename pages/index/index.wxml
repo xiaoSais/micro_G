@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="search">
+    <view class="input_container">
+      <image class="search_icon" src="../../images/search.png"></image>
+      <text>请输入搜索的商品或者类别</text>
+    </view>
+    <view class="classify">
+      <view class="item">
+
+      </view>
+    </view>
+  </view>
+</view>

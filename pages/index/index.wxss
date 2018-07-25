@@ -1,0 +1,26 @@
+/**index.wxss**/
+
+.search {
+  text-align: left;
+  font-size: 24rpx; 
+  display: flex;
+  justify-content: center;
+}
+.input_container {
+  background-color: whitesmoke;
+  border-radius: 100rpx;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  padding: 5px 0;
+}
+.search_icon {
+  width: 24rpx;
+  height: 24rpx;
+  padding-right: 10px;
+}
+.classify {
+  display: flex;
+}
